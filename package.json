@@ -1,0 +1,8 @@
+{
+  "name": "constructor hangman",
+  "version": "1.0.0",
+  "description": "creating a hangman game using node js",
+  "main": "main.js",
+  "dependencies": {
+    "prompt": "^1.0.0",
+  },
